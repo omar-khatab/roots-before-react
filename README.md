@@ -1,6 +1,6 @@
-# Old Portfolio — 5 Projects Archive
+# Old Portfolio — 6 Projects Archive
 
-Archive shows evolution from simple HTML/CSS to React: Template_1 to 5 5 templates as practice for PSD to HTML and responsive design.
+Archive shows evolution from simple HTML/CSS to React: Template_1 to 5 5 templates + Admin Dashboard template as practice for PSD to HTML and responsive design.
 
 ### 🔗 Live Demo
 https://omar-khatab.github.io/roots-before-react/
@@ -11,6 +11,7 @@ https://omar-khatab.github.io/roots-before-react/
 3. **Template_3 = Digital-Agency** - [Live](https://omar-khatab.github.io/Template_3/)
 4. **Template_4 = Gonex-Agency** - [Live](https://omar-khatab.github.io/Template_4/)
 5. **Template_5 = Special-Agency** - [Live](https://omar-khatab.github.io/Template_5/)
+6. **Template_6 = Admin-Dashboard** - [Live](https://omar-khatab.github.io/Admin-Dashboard/)
 
 ### 🛠️ Stack
 - HTML5 / CSS3 / JavaScript
