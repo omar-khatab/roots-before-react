@@ -11,7 +11,7 @@ https://omar-khatab.github.io/roots-before-react/
 3. **Template_3 = Digital-Agency** - [Live](https://omar-khatab.github.io/Template_3/)
 4. **Template_4 = Gonex-Agency** - [Live](https://omar-khatab.github.io/Template_4/)
 5. **Template_5 = Special-Agency** - [Live](https://omar-khatab.github.io/Template_5/)
-6. **Template_6 = Admin-Dashboard** - [Live](https://omar-khatab.github.io/Admin-Dashboard/)
+6. Admin-Dashboard** - [Live](https://omar-khatab.github.io/Admin-Dashboard/)
 
 ### 🛠️ Stack
 - HTML5 / CSS3 / JavaScript
